@@ -1,0 +1,33 @@
+@media (max-width: 1024px) {
+  .navbar-container {
+    display: none;
+  }
+  .showcase-container > h1 {
+    font-size: 3rem;
+    text-align: center;
+    line-height: 3.15rem;
+  }
+  .showcase-container > p {
+    font-size: 0.975rem;
+    text-align: center;
+  }
+
+  .about-me-content {
+    flex-direction: column;
+  }
+  .about-me-content > img {
+    width: 200px;
+    height: 200px;
+  }
+  .skills-content {
+    flex-direction: column;
+  }
+  /*Utilites*/
+  .section-content {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .section-title {
+    font-size: 2rem;
+  }
+}
