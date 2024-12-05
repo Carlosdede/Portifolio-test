@@ -16,14 +16,9 @@ Contato: Formulário para envio de mensagens (sem funcionalidade de back-end int
 Responsividade: Totalmente adaptável a diferentes tamanhos de tela.
 
 📁 Estrutura de Pastas e Arquivos
-bash
-Copiar código
-/
-|-- index.html          # Estrutura do site
-|-- style.css           # Estilo principal
-|-- mobile.css          # Estilo responsivo para dispositivos móveis
-|-- /assets
-    |-- /images         # Imagens usadas no projeto (ícones, avatar, etc.)
+
+![project-folders](https://github.com/user-attachments/assets/9a86168e-066f-4c66-a093-cd8a945f3aec)
+
     
 💡 Objetivo do Projeto
 Este portfólio foi desenvolvido como uma prática de:
