@@ -1,6 +1,7 @@
 
 ![Showcase-project](https://github.com/user-attachments/assets/f6da475c-5e8a-4a29-b014-7e5f23d1423f)
-![about-me-project](https://github.com/user-attachments/assets/bc134345-e7ac-4b6e-bfe5-849c74bafbfb)
+![about-me-project2](https://github.com/user-attachments/assets/5c2c6788-ac6e-4084-ad66-4a28f13156f2)
+
 
 Portfólio Pessoal (Fictício) 🌟
 Este é um projeto fictício de portfólio pessoal, criado para demonstrar habilidades de desenvolvimento web utilizando HTML, CSS e JavaScript. Embora as informações apresentadas não sejam reais, o objetivo do projeto é servir como uma vitrine para práticas de design e desenvolvimento front-end.
